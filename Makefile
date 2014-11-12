@@ -11,7 +11,7 @@ endef
 
 url_leaf=https://github.com/leaflabs/hardware-lib.git
 url_libs=https://github.com/nekromant/nc-libs.git
-url_modules=git@github.com:nekromant/nc-mods.git
+url_modules=https://github.com/nekromant/nc-mods.git
 url_xue=git://projects.qi-hardware.com/xue.git
 
 

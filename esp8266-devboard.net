@@ -1,0 +1,332 @@
+# EESchema Netlist Version 1.1 created  Tue 04 Nov 2014 10:01:43 PM MSK
+(
+ ( /543AA238 SM0805 C1 10uF
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /543AA232 SM0805 C2 10uF
+  ( 1 +3.3V )
+  ( 2 GND )
+ )
+ ( /543A7A3B/53941F4F SM0805 C3 27pF
+  ( 1 N-000030 )
+  ( 2 GND )
+ )
+ ( /543A7A3B/53941F42 SM0805 C4 27pF
+  ( 1 N-000031 )
+  ( 2 GND )
+ )
+ ( /543A7A3B/543BF9EB SM0805 C5 1uF
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /543A7A3B/543BF9F2 SM0805 C6 1uF
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /543A7A3B/54592215 SM0805 C7 10uF
+  ( 1 /Sheet543A7A3A/VO_3V3 )
+  ( 2 GND )
+ )
+ ( /543A9C52 LED-5MM D1 LED
+  ( 1 N-000006 )
+  ( 2 GND )
+ )
+ ( /543A9C6E LED-5MM D2 LED
+  ( 1 N-000004 )
+  ( 2 GND )
+ )
+ ( /54555D0B LED-0603 D3 LED
+  ( 1 N-000019 )
+  ( 2 GND )
+ )
+ ( /54555D06 LED-0603 D4 LED
+  ( 1 N-000018 )
+  ( 2 GND )
+ )
+ ( /543AC6E9 USB_B J1 USB
+  ( 1 +5V )
+  ( 2 /Sheet543A7A3A/DM )
+  ( 3 /Sheet543A7A3A/DP )
+  ( 4 GND )
+  ( 5 GND )
+  ( 6 GND )
+ )
+ ( /543AA325 PINHEAD1-3-NOSILK K1 CONN_SER
+  ( 1 /Sheet543A7A3A/TXD )
+  ( 2 /Sheet543A7A3A/RXD )
+  ( 3 GND )
+ )
+ ( /543AA2D4 PINHEAD1-6-NOSILK P1 CONN_6
+  ( 1 GND )
+  ( 2 /Sheet543A7A3A/GP1 )
+  ( 3 /CE )
+  ( 4 /GPIO2 )
+  ( 5 /GPIO0 )
+  ( 6 +3.3V )
+ )
+ ( /543A92EF SM0805 R1 10k
+  ( 1 +3.3V )
+  ( 2 /Sheet543A7A3A/GP1 )
+ )
+ ( /543A930A SM0805 R2 10k
+  ( 1 +3.3V )
+  ( 2 /CE )
+ )
+ ( /543A930B SM0805 R3 10k
+  ( 1 +3.3V )
+  ( 2 /GPIO2 )
+ )
+ ( /543A9316 SM0805 R4 10k
+  ( 1 +3.3V )
+  ( 2 /GPIO0 )
+ )
+ ( /543A9C54 SM0805 R5 220
+  ( 1 /GPIO0 )
+  ( 2 N-000006 )
+ )
+ ( /543A9C6D SM0805 R6 220
+  ( 1 /GPIO2 )
+  ( 2 N-000004 )
+ )
+ ( /543A7A3B/543BF44C SM0805 R7 22
+  ( 1 /Sheet543A7A3A/DM )
+  ( 2 /Sheet543A7A3A/DM )
+ )
+ ( /543A7A3B/543BF452 SM0805 R8 22
+  ( 1 /Sheet543A7A3A/DP )
+  ( 2 /Sheet543A7A3A/DP )
+ )
+ ( /543A7A3B/543BF48A SM0805 R9 1k5
+  ( 1 /Sheet543A7A3A/VO_3V3 )
+  ( 2 /Sheet543A7A3A/DP )
+ )
+ ( /54555D0A SM0603 R10 1k5
+  ( 1 /Sheet543A7A3A/GP1 )
+  ( 2 N-000019 )
+ )
+ ( /54555D07 SM0603 R11 1k5
+  ( 1 /Sheet543A7A3A/GP0 )
+  ( 2 N-000018 )
+ )
+ ( /5459227A SM0805 R12 510
+  ( 1 /GPIO0 )
+  ( 2 /Sheet543A7A3A/GP0 )
+ )
+ ( /543A922E SW_PUSH_SMALL SW1 SW_PUSH
+  ( 1 /Sheet543A7A3A/GP1 )
+  ( 2 GND )
+ )
+ ( /543A92EA SW_PUSH_SMALL SW2 SW_PUSH
+  ( 1 /GPIO0 )
+  ( 2 GND )
+ )
+ ( /543AA229 SOT223 U1 AMS1117
+  ( 1 GND )
+  ( 2 +3.3V )
+  ( 3 +5V )
+ )
+ ( /543A9210 ESP8266_MODULE U2 ESP8266-MODULE
+  ( 1 /Sheet543A7A3A/TXD )
+  ( 2 +3.3V )
+  ( 3 /GPIO0 )
+  ( 4 /Sheet543A7A3A/GP1 )
+  ( 5 /GPIO2 )
+  ( 6 /CE )
+  ( 7 GND )
+  ( 8 /Sheet543A7A3A/RXD )
+ )
+ ( /543A7A3B/54554AA1 SSOP28 U3 PL2303HXA
+  ( 1 /Sheet543A7A3A/TXD )
+  ( 2 ? )
+  ( 3 ? )
+  ( 4 +3.3V )
+  ( 5 /Sheet543A7A3A/RXD )
+  ( 6 ? )
+  ( 7 GND )
+  ( 8 ? )
+  ( 9 ? )
+  ( 10 ? )
+  ( 11 ? )
+  ( 12 ? )
+  ( 13 ? )
+  ( 14 ? )
+  ( 15 /Sheet543A7A3A/DP )
+  ( 16 /Sheet543A7A3A/DM )
+  ( 17 /Sheet543A7A3A/VO_3V3 )
+  ( 18 GND )
+  ( 19 ? )
+  ( 20 +5V )
+  ( 21 GND )
+  ( 22 /Sheet543A7A3A/GP0 )
+  ( 23 /Sheet543A7A3A/GP1 )
+  ( 24 ? )
+  ( 25 GND )
+  ( 26 GND )
+  ( 27 N-000031 )
+  ( 28 N-000030 )
+ )
+ ( /543A7A3B/53941F38 HC-49V X1 12Mhz
+  ( 1 N-000030 )
+  ( 2 N-000031 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component C7
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D4
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R11
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R12
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}
